@@ -1,0 +1,7 @@
+ext {
+  pluginName = 'smart-name'
+  pluginClassname  = 'create.elasticsearch.plugin.smartname.AnalysisSNPlugin'
+  pluginDescription = 'It is the plunin for searching name by first name and last name'
+  user = 'dmytro'
+  name = 'elasticsearch-plugin-smart-name'
+}

@@ -1,0 +1,22 @@
+"SmartNamePlugin":
+  - skip:
+    features: warnings
+  - do:
+    indices.analyze:
+      text: Alex Andrew Smith
+      tokenizer: keyword
+      filter: smart_name_tokenizer
+  - length: { tokens: 1 }
+  - match:  { tokens.0.token: Andrew Smith  }
+
+---
+
+"Analyzer":
+  - skip:
+    features: warnings
+  - do:
+    indices.analyze:
+      text: Alex Dmitry Smith
+      analyzer: smart_name
+  - length: { tokens: 1 }
+  - match:  { tokens.0.token: Andrew Smith  }
