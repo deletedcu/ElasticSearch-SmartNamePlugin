@@ -66,3 +66,18 @@ bin/elasticsearch-plugin install file:///path/to/SmartNamePlugin/build/distribut
 * There are always bugs
 * and todos...
 
+## 🌱 Technologies and Frameworks
+<p>
+    <!-- Java -->
+    <img src="https://img.shields.io/badge/Java-61dafb?flat=plastic&logo=java&logoColor=black" height="32" alt="Java" />
+    &nbsp;
+    <!-- ElasticSearch -->
+    <img src="https://img.shields.io/badge/ElasticSearch-764abc?flat=plastic&logo=elasticsearch&logoColor=white" height="32" alt="ElasticSearch" />
+    &nbsp;
+    <!-- Redux-Saga -->
+    <img src="https://img.shields.io/badge/Redux%20Saga-999999?flat=plastic&logo=redux-saga&logoColor=white" height="32" alt="Redux-Saga" />
+    &nbsp;
+    <!-- Android Studio -->
+    <img src="https://img.shields.io/badge/Android%20Studio-3ddc84?flat=plastic&logo=android%20studio&logoColor=white" height="32" alt="Android Studio" />
+    &nbsp;
+</p>
