@@ -77,6 +77,9 @@ bin/elasticsearch-plugin install file:///path/to/SmartNamePlugin/build/distribut
     <!-- Logstash -->
     <img src="https://img.shields.io/badge/Logstash-005571?flat=plastic&logo=logstash&logoColor=white" height="32" alt="Logstash" />
     &nbsp;
+    <!-- Kibana -->
+    <img src="https://img.shields.io/badge/Kibana-005571?flat=plastic&logo=kibana&logoColor=white" height="32" alt="Kibana" />
+    &nbsp;
     <!-- Android Studio -->
     <img src="https://img.shields.io/badge/Android%20Studio-3ddc84?flat=plastic&logo=android%20studio&logoColor=white" height="32" alt="Android Studio" />
     &nbsp;
